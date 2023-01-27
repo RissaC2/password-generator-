@@ -92,10 +92,14 @@ var upperCasedCharacters = [
 function getPasswordOptions() {
 console.log("Press the button to create a new password");
 }
+var password = prompt("We will generate a password with special character, press to continue")
 
 // Function for getting a random element from an array
 function getRandom(arr) 
-for (var i = 0; i < arr.length; i++)
+for (var i = 0; i < arr.length; i++) {
+
+
+}
 
 
 
