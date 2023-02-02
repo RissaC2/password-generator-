@@ -5,7 +5,7 @@
 I have creatred a pasdsword generator a buisness can use to generate a random password based on criteria they’ve selected by modifying starter code. This app runs in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code. The password can include special characters.
 
 
-The results can be found in the counsole.
+The results can be found in the console.
 
 Credits
 https://www.w3schools.com/default.asp
@@ -14,14 +14,11 @@ https://stackoverflow.com/
 
 
 Screenshot
-<<<<<<< HEAD
-"C:\Users\clari\BOOTCAMP\password-generator-\assets\Image\Screenshot_20230201_174546.png"
 
-=======
-https://github.com/RissaC2/password-generator-/commit/974687bf3910e1b1ef64082d58ffb726d664bf68#diff-1b9b603da43c6fe0e1536bcac118fd3b795d03f0c53f381f8fd843e061381388
->>>>>>> 68d33676fe3f6dceee28888a9cf50c493f52776c
+![Screenshot_20230201_174546](https://user-images.githubusercontent.com/105446766/216441631-165eb579-db41-4c96-93f1-0e1f9d760812.png)
 
 Deployed link
+
 
 License
 MIT License
