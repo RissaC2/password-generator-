@@ -13,7 +13,8 @@ https://www.w3schools.com/default.asp
 https://stackoverflow.com/
 
 Screenshot
-![Alt text]assets\Image\Screenshot_20230201_174546.png 
+"C:\Users\clari\BOOTCAMP\password-generator-\assets\Image\Screenshot_20230201_174546.png"
+
 
 Deployed link
 
