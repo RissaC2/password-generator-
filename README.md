@@ -12,9 +12,14 @@ https://www.w3schools.com/default.asp
 
 https://stackoverflow.com/
 
+
 Screenshot
+<<<<<<< HEAD
 "C:\Users\clari\BOOTCAMP\password-generator-\assets\Image\Screenshot_20230201_174546.png"
 
+=======
+https://github.com/RissaC2/password-generator-/commit/974687bf3910e1b1ef64082d58ffb726d664bf68#diff-1b9b603da43c6fe0e1536bcac118fd3b795d03f0c53f381f8fd843e061381388
+>>>>>>> 68d33676fe3f6dceee28888a9cf50c493f52776c
 
 Deployed link
 
