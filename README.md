@@ -11,9 +11,9 @@ Credits
 https://www.w3schools.com/default.asp
 
 https://stackoverflow.com/
-
+https://github.com/RissaC2/password-generator-/commit/974687bf3910e1b1ef64082d58ffb726d664bf68#diff-1b9b603da43c6fe0e1536bcac118fd3b795d03f0c53f381f8fd843e061381388
 Screenshot
-![Alt text]assets\Image\Screenshot_20230201_174546.png 
+https://github.com/RissaC2/password-generator-/commit/974687bf3910e1b1ef64082d58ffb726d664bf68#diff-1b9b603da43c6fe0e1536bcac118fd3b795d03f0c53f381f8fd843e061381388
 
 Deployed link
 
