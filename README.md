@@ -14,16 +14,13 @@ https://stackoverflow.com/
 
 
 Screenshot
-<<<<<<< HEAD
-"C:\Users\clari\BOOTCAMP\password-generator-\assets\Image\Screenshot_20230201_174546.png" 
 
-=======
+
 
 ![Screenshot_20230201_174546](https://user-images.githubusercontent.com/105446766/216441631-165eb579-db41-4c96-93f1-0e1f9d760812.png)
->>>>>>> 9a3ceef5e5192e5b45e19b14809b363fa6f3b530
 
 Deployed link
-
+https://rissac2.github.io/password-generator-/
 
 License
 MIT License
