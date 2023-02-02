@@ -2,7 +2,7 @@
 
 ## Overview
  
-I have creatred a pasdsword generator a buisness can use to generate a random password based on criteria they’ve selected by modifying starter code. This app runs in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code. The password can include special characters.
+I have created a password generator a buisness can use to generate a random password based on criteria they’ve selected by modifying starter code. This app runs in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code. The password can include special characters.
 
 
 The results can be found in the console.
